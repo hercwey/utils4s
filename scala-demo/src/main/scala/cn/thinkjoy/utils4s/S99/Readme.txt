@@ -1,0 +1,1 @@
+scala语法实例快速学习，实例来自：https://www.cnblogs.com/yinzhengjie/p/9346524.html
