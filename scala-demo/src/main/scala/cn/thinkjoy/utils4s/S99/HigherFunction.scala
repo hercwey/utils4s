@@ -10,7 +10,7 @@ object HigherFunction {
     * 定义一个高级函数：
     * f: (Int) => String
     *     第一个参数是带一个整型参数返回值为字符串的函数f
-    *v: Int
+    * v: Int
     *     第二个参数是一个整型参数v
     * f(v)
     *      返回值为一个函数“f(v)”。
