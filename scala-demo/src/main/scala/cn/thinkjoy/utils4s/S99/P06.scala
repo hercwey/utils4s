@@ -1,6 +1,7 @@
 package cn.thinkjoy.utils4s.S99
 
 /**
+  * 判断是否是回文list
  * Created by jacksu on 15/12/1.
  */
 object P06 {

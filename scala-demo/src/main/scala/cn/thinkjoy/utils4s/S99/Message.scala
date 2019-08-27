@@ -26,7 +26,7 @@ case class Message(name: String, content: String) {
   * 样例对象:
   * 1>.用于模式匹配
   * 2>.样例对象不能封装数据
-  * 3>.样例对象格式:case opject 对象名
+  * 3>.样例对象格式:case object 对象名
   */
 case object MonitorServer
 

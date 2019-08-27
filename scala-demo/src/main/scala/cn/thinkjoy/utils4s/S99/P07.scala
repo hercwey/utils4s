@@ -5,7 +5,7 @@ package cn.thinkjoy.utils4s.S99
  */
 object P07 {
   def flatten(xs:List[Any]):List[Any]=xs flatMap {
-    case l:List[_]=> flatten(l)
+    case l:List[_]=> flatten(l)  // 没看懂
     case e=> List(e)
   }
 
