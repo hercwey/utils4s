@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.thinkjoy.utils4s</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>scala-utils</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
 
